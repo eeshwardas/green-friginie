@@ -1,2 +1,2 @@
-# green-freegeinie
+# green-friginie
 Prevents mold in a refrigerator
